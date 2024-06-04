@@ -96,5 +96,5 @@ His research interests cover formal methods, security and privacy, complex netwo
 
 ## **Registration**
 
-If you are interested in participating the course, please send your application to **passenger0615@gmail.com**.
+If you are interested in participating the course, please send your application to **passenger0615@gmail.com**. Please note that the registration deadline for this course is <span style="color: red;">June 30th</span>.
 
