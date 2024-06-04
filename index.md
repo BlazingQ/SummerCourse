@@ -31,8 +31,8 @@ Networks are a fundamental concept for modeling complex physical, technological,
 
 </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
-    <img src="assets/img/Complex Network.jpg" alt="Descriptive text for image" style="width: 100%; margin-bottom: 50px;">
-    <img src="assets/img/Complex Network2.png" alt="Descriptive text for another image" style="width: 100%;">
+    <img src="assets/img/Complex Network.jpg" alt="Descriptive text for image" style="width: 100%; margin-top: 50px; margin-bottom: 50px;">
+    <img src="assets/img/Complex Network2.png" alt="Descriptive text for another image" style="width: 100%; margin-bottom: 50px;">
   </div> 
 </div>
 
