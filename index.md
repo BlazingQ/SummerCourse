@@ -19,11 +19,22 @@ subtitle: a summer course
 
 ## **Description**
 
-Networks are a fundamental concept for modeling complex physical, technological, social, and biological systems. These intricate structures underlie everything from the internet and social interactions to biological pathways and transportation networks. This course, “Modelling and Analysis of Complex Networks”, delves into the heart of this interconnected world.
+<div style="display: flex; align-items: stretch;">
+  <div style="flex: 1.5; padding-right: 20px;" markdown="1">
+
+
+Networks are a fundamental concept for modeling complex physical, technological, social, and biological systems. These intricate structures underlie everything from the internet and social interactions to biological pathways and transportation networks. This course, “**Modelling and Analysis of Complex Networks**”, delves into the heart of this interconnected world.
 
 **Why Complex Networks Matter**: Complex networks serve as the backbone of modern science and technology. They reveal hidden patterns, emergent behaviors, and vulnerabilities. By studying them, we gain insights into social dynamics, disease propagation, and even the resilience of power grids. 
 
 **The Excitement of Graph Analysis and Machine Learning**: Imagine unraveling the intricate web of connections—the nodes representing people, genes, or web pages, and the edges signifying relationships or interactions. When we perform network analysis, we will witness the beauty of interconnectedness. Moreover, applying machine learning to graph data opens doors to personalized recommendations, fraud detection, and understanding cascading effects.
+
+</div>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <img src="assets/img/Complex Network.jpg" alt="Descriptive text for image" style="width: 100%; margin-bottom: 50px;">
+    <img src="assets/img/Complex Network2.png" alt="Descriptive text for another image" style="width: 100%;">
+  </div> 
+</div>
 
 
 
@@ -74,7 +85,9 @@ An adequate mathematical and programming background is essential. While no speci
 
 ## **Teacher**
 
-**Prof. Jun Pang** is affiliated with the Department of Computer Science at the University of Luxembourg, and he is also a research fellow at the Institute for Advanced Studies. His research interests cover formal methods, security and privacy, complex networks, and graph machine learning. Currently, his primary focus lies in trustworthy artificial intelligence, particularly in the areas of security and privacy, as well as AI for sciences.
+[**Prof. Jun Pang**](https://satoss.uni.lu/members/jun/) is affiliated with the Department of Computer Science at the University of Luxembourg, and he is also a research fellow at the Institute for Advanced Studies. 
+
+His research interests cover formal methods, security and privacy, complex networks, and graph machine learning. Currently, his primary focus lies in trustworthy artificial intelligence, particularly in the areas of security and privacy, as well as AI for sciences.
 
 
 
