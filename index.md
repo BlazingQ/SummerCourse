@@ -52,7 +52,8 @@ The course aims to provide the students an overview of (1) important concepts, t
 
 ## **Time and place**
 
- **August 5th-9th, 10:00-12:00 \n Department of CS building, Room 229(Xianlin)**
+ **August 5th-9th, 10:00-12:00**
+ **Department of CS building, Room 229(Xianlin)**
 
 
 
